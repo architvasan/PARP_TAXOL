@@ -1,0 +1,81 @@
+protein,pdb,domains,substrates,conformation,resol,organism,expression,year,technique
+PARP-1,4DQY,CAT&WGR&AD&DBD,DNAdsbreak,unknown,3.25,human,ecoli,2012,xray
+PARP-1,7S81,Zn1&Zn3&WGR&HD,DNAdsbreak,activeHD,3.60,human,ecoli,2021,xray
+PARP-1,4AV1,DBD,DNA,unknown,3.10,human,spodoptera frugiperda,2012,xray
+PARP-1,7KK4,CAT,olaparib,compinhib,1.96,human,spodoptera frugiperda,2020,xray
+PARP-1,4RV6,CAT,rucaparib,compinhib,3.19,human,ecoli bl21,2014,xray
+PARP-1,7AAD,CAT,olaparib,compinhib,2.21,human,ecoli,2020,xray
+PARP-1,4UND,CAT,talazoparib,compinhib,2.20,human,ecoli bl21,2014,xray
+PARP-1,6M31,CAT&HPF1,none,remodeled active,1.98,human,ecoli,2020,xray
+PARP-1,4PJT,CAT,BMN673(inhibitor),compinhib,2.35,human,ecoli,2014,xray
+PARP-1,7KK2,CAT,none,unknown,1.70,human,spodoptera frugiperda,2020,xray
+PARP-1,7KK5,CAT,niraparib,compinhib,1.70,human,spodoptera frugiperda,2020,xray
+PARP-1,4R6E,CAT,niraparib,compinhib,2.20,human,ecoli,2014,xray
+PARP-1,6VKQ,CAT,EB-47(inhibitor),compinhib,2.90,human,ecoli,2020,xray
+PARP-1,6BHV,CAT,BAD(similar to NAD+),substratebnd,2.30,human,ecoli,2017,xray
+PARP-2,4TVJ,CAT,olaparib,compinhib,2.10,human,ecoli,2014,xray
+PARP-2,4PJV,CAT,BMN673,compinhib,2.50,human,ecoli,2014,xray
+PARP-2,7R59,CAT,OUL245,compinhib,2.00,human,ecoli,2022,xray
+PARP-2,6XOM,CAT&HPF1,chromatin,unknown,6.30,human,ecoli,2020,cryo-em
+PARP-2,3KJD,CAT,ABT-888(inhibitor),compinhib,1.95,human,ecoli,2009,xray
+PARP-2,6TX3,CAT&HPF1,none,unknown,2.96,human,ecoli,2020,xray
+PARP-2,6F5B,WGR,dsDNA,unknown,2.80,human,ecoli,2017,xray
+PARP-2,8HE8,CAT,inhibitor,compinhib,3.05,human,ecoli,2022,xray
+PARP-2,5DSY,CAT,inhibitor,compinhib,2.70,human,ecoli,2015,xray
+PARP-2,3KCZ,CAT,3-aminobenzamide(inhibitor),compinhib,2.00,human,ecoli,2009,xray
+PARP-2,7R59,CAT,OUL245,compinhib,2.00,human,ecoli,2022,xray
+PARP-2,4ZZY,CAT,isoindolinone(inhibitor),compinhib,2.20,human,ecoli,2015,xray
+PARP-2,1GS0,CAT,none,unknown,2.80,mus musculus,spodoptera frugiperda,2001,xray
+PARP-2,4UND,CAT,talazoparib,compinhib,2.20,human,ecoli,2014,xray
+PARP-2,6USJ,All,2nucleosomes,unknown,10.5,human,ecoli,2019,cryo-em
+PARP-3,4GVO,CAT,MEO355(inhibitor),compinhib,1.90,human,ecoli,2012,xray
+PARP-3,3FHB,CAT,3-aminobenzoic acid(inhibitor),compinhib,2.30,human,ecoli,2008,xray
+PARP-3,3C49,CAT,KU0058948(inhibitor),compinhib,2.80,human,ecoli,2008,xray
+PARP-3,4GV2,CAT,ME0354(inhibitor),compinhib,1.80,human,ecoli,2012,xray
+PARP-3,3L3M,CAT,A927929,unknown,2.50,human,ecoli,2009,xray
+PARP-3,4L7L,CAT,ME03368(inhibitor),compinhib,2.10,human,ecoli,2013,xray
+PARP-3,4L7R,CAT,ME0400(inhibitor),compinhib,2.20,human,ecoli,2013,xray
+TNKS1,5JU5,SAM,none,unknown,2.50,human,ecoli,2016,xray
+TNKS1,2RF5,CAT,none,unknown,2.30,human,ecoli,2007,xray
+TNKS1,4KRS,CAT,inhibitor,compinhib,2.29,human,ecoli,2013,xray
+TNKS1,5ETY,CAT,K-756(inhibitor),compinhib,2.90,human,ecoli,2015,xray
+TNKS1,4TOS,CAT,355(inhibitor),compinhib,1.80,human,ecoli,2014,xray
+TNKS1,4TOR,CAT,IWR-8(inhibitor),compinhib,1.50,human,ecoli,2014,xray
+TNKS1,4OA7,CAT,IWR1(inhibitor),compinhib,2.30,human,ecoli,2014,xray
+TNKS1,5JHQ,ARC1-3,IRAPderived peptide,unknown,3.20,human,ecoli,2016,xray
+TNKS1,6QXU,CAT,inhibitor,compinhib,1.20,human,ecoli,2019,xray
+TNKS1,3UH2,CAT,PJ34,compinhib,2.00,human,ecoli,2011,xray
+TNKS1,5EBT,CAT,Phthalazinone 2,compinhib,2.24,human,ecoli,2015,xray
+TNKS1,4W6E,CAT,inhibitor,compinhib,1.95,human,ecoli,2014,xray
+TNKS1,4LI6,CAT,inhibitor,compinhib,2.05,human,ecoli,2013,xray
+TNKS1,5JTI,SAM,none,unknown,2.90,human,ecoli,2016,xray
+TNKS1,5ECE,CAT,Phthalazinone 1,compinhib,2.20,human,ecoli,2015,xray
+TNKS1,3UH4,CAT,NVP-XAV939,compinhib,2.00,human,ecoli,2011,xray
+TNKS1,4MT9,CAT,compound49,compinhib,2.00,human,ecoli,2013,xray
+TNKS1,3UDD,CAT,inhibitor,compinhib,1.95,human,ecoli,2011,xray
+TNKS1,4I9I,CAT,compound4,compinhib,2.40,human,ecoli,2012,xray
+TNKS2,5JRT,SAM,none,unknown,1.53,human,ecoli,2016,xray
+TNKS2,5ZQP,CAT,compound12,compinhib,1.99,human,unidentified,2018,xray
+TNKS2,5BXO,CAT,macrocyclic peptide,peptidebnd,1.33,human,ecoli,2015,xray
+TNKS2,5FPF,CAT,TA-91,compinhib,2.60,human,ecoli,2015,xray
+TNKS2,3TWQ,ARC4,none,unknown,2.15,human,ecoli,2011,xray
+TNKS2,3KR8,CAT,XAV939(inhibitor),compinhib,2.10,human,ecoli,2009,xray
+TNKS2,4UI5,CAT,TA-41,compinhib,1.65,human,ecoli,2015,xray
+TNKS2,4BJC,CAT,rucaparib,compinhib,2.20,human,ecoli,2013,xray
+TNKS2,7CE4,CAT,K-476,compinhib,1.50,human,ecoli,2020,xray
+TNKS2,6TG4,CAT,OM-1700(inhibitor),compinhib,2.76,human,ecoli,2019,xray
+TNKS2,5ADT,CAT,OD73,compinhib,2.15,human,ecoli,2015,xray
+TNKS2,4UVW,CAT,inhibitor,compinhib,2.10,human,ecoli,2014,xray
+TNKS2,4UX4,CAT,inhibitor,compinhib,1.80,human,ecoli,2014,xray
+TNKS2,6KRO,CAT,RK-582,compinhib,1.90,human,unidentfied,2019,xray
+TNKS2,5ADR,CAT,OD38,compinhib,2.10,human,ecoli,2015,xray
+TNKS2,4UI6,CAT,TA-47,compinhib,1.80,human,ecoli,2015,xray
+TNKS2,4BFP,CAT,WIKI4,compinhib,2.40,human,ecoli,2013,xray
+TNKS2,7R5X,CAT,OUL211,compinhib,2.05,human,ecoli,2022,xray
+TNKS2,7O6X,CAT&unknown,OM-153,compinhib,2.20,human,ecoli,2021,xray
+TNKS2,4L0B,CAT,4dimethylamino flavone,substratebound,1.80,human,ecoli,2013,xray
+TNKS2,8ALY,unknown,none,unknown,2.98,human,ecoli,2022,cryo-em
+TNKS2,4UI3,CAT,TA-26,compinhib,2.00,human,ecoli,2015,xray
+TNKS2,6TKP,CAT,OM-1900,compinhib,2.40,human,ecoli,2019,xray
+TNKS2,5ZQQ,CAT,compound 52,compinhib,2.29,human,unidentified,2018,xray
+TNKS2,4BS4,CAT,inhibitor,compinhib,1.89,human,ecoli,2013,xray
